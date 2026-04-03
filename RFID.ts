@@ -1,5 +1,5 @@
 //% weight=100 color=#0fbc11 icon="\uf2db"
-namespace a4-RFID {
+namespace a4_RFID {
     let buffer = ""
 
     function hexCharValue(c: string): number {
