@@ -1,0 +1,11 @@
+{
+  "name": "a4-RFID",
+  "description": "Grove 125KHz RFID Reader for micro:bit",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "RFID.ts"
+  ],
+  "public": true
+}
